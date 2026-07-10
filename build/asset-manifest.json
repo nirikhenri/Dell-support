@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68b00389.css",
+    "main.js": "/static/js/main.d8fd82dc.js",
+    "static/js/453.66be2260.chunk.js": "/static/js/453.66be2260.chunk.js",
+    "static/media/dell.png": "/static/media/dell.29081381eba776b35173.png",
+    "static/media/DELLI.png": "/static/media/DELLI.2d287b956511ff278d8c.png",
+    "index.html": "/index.html",
+    "main.68b00389.css.map": "/static/css/main.68b00389.css.map",
+    "main.d8fd82dc.js.map": "/static/js/main.d8fd82dc.js.map",
+    "453.66be2260.chunk.js.map": "/static/js/453.66be2260.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68b00389.css",
+    "static/js/main.d8fd82dc.js"
+  ]
+}
